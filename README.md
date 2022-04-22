@@ -1,5 +1,5 @@
 ## Hi, I'm Emmanuel (He/Him).
-- I'm currently a student at the Texas Academy Of Math and Science.
+- I'm currently an Undergraduate Researcher in the UNT CNS Lab.
 - Currently, I'm working on a TensorFlow system to automate basic pathology.
 - If you want to reach me, please send me an email.
 
